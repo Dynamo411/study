@@ -1,1 +1,9 @@
-applications : game
+applications : game 
+
+
+git commands:
+
+
+git add .
+git commit -m "adding git commands"
+git push origin main
